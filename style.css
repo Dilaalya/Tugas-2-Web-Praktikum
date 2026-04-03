@@ -25,7 +25,6 @@ nav{
 .nav-link{
     display: flex;
     gap: 28px;
-    z-index: 1000;
 }
 
 .nav-link a{
